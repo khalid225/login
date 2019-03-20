@@ -1,0 +1,9 @@
+c:\users\acer\documents\visual studio 2015\Projects\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+c:\users\acer\documents\visual studio 2015\Projects\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+c:\users\acer\documents\visual studio 2015\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.Form1.resources
+c:\users\acer\documents\visual studio 2015\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.Main.resources
+c:\users\acer\documents\visual studio 2015\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2015\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2015\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+c:\users\acer\documents\visual studio 2015\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
